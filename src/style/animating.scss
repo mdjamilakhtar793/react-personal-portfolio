@@ -1,0 +1,15 @@
+@keyframes animates {
+  to {
+    transform: translate(-50%, 10px);
+  }
+}
+@keyframes updown {
+  to {
+    transform: translateY(-6px);
+  }
+}
+@keyframes upingdown {
+  to {
+    transform: translate(-30px, -30px);
+  }
+}
